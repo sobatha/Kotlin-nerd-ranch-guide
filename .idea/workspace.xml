@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="613da91c-35ee-4d9d-a860-05d8da70e4a8" name="Changes" comment="関数へ抽出" />
+    <list default="true" id="613da91c-35ee-4d9d-a860-05d8da70e4a8" name="Changes" comment="引き続き関数へ抽出">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Game.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Game.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709298848884</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="引き続き関数へ抽出">
+      <option name="closed" value="true" />
+      <created>1709299346745</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709299346745</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +147,7 @@
     <MESSAGE value="条件式" />
     <MESSAGE value="when節の利用" />
     <MESSAGE value="関数へ抽出" />
-    <option name="LAST_COMMIT_MESSAGE" value="関数へ抽出" />
+    <MESSAGE value="引き続き関数へ抽出" />
+    <option name="LAST_COMMIT_MESSAGE" value="引き続き関数へ抽出" />
   </component>
 </project>
