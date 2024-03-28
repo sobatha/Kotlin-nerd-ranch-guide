@@ -1,5 +1,5 @@
 fun main() {
-    val player = Player()
+    val player = Player("madrigal")
 
     //Aura
     val auraColor = player.auraColor()
